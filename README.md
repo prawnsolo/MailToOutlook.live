@@ -1,4 +1,4 @@
-# MailtOWA
+# MailToOutlook.live
 
 ### Chrome Extension opens mailto: links by default with Outlook Web Application (OWA) / Office 365
 
